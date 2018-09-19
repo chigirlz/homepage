@@ -25,14 +25,14 @@
 #project-title {
   top: 32%;
   z-index: 1015;
-  color: #cf0707;
+  color: #cf0709;
   position: absolute;
   font-family: 'Pacifico', cursive;
   text-align: center;
   width: 100%;
   margin: 0 auto;
   font-size: 40px;
-  
+
   font-weight: 500;
   margin-top: -80px;
   letter-spacing: 2px;
